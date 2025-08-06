@@ -5202,6 +5202,24 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "Kj263",
+      "name": "Kjirsten Fastabend",
+      "avatar_url": "https://avatars.githubusercontent.com/u/114452573?v=4",
+      "profile": "https://github.com/Kj263",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "stweil",
+      "name": "Stefan Weil",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6734573?v=4",
+      "profile": "https://github.com/stweil",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "projectName": "the-turing-way",
